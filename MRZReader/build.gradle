@@ -27,6 +27,6 @@ android {
 
 dependencies {
     compile 'com.android.support:support-compat:25.3.1'
-    compile 'com.rmtheis:tess-two:6.2.0'
+    compile 'com.rmtheis:tess-two:9.1.0'
     compile 'org.jmrtd:jmrtd:0.5.13'
 }
